@@ -1,5 +1,5 @@
 # Financial Transaction Classification
-![alt text](src/img/txn.jpg "Financial Transaction Classification")
+![alt text](docs/img/txn.jpg "Financial Transaction Classification")
 
 Classification of financial transactions is a key use-case for most business in financial 
 sector for faster analysis, decision-making and application presentation views. Classified
